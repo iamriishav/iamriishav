@@ -1,5 +1,5 @@
 [![MasterHead](https://iamriishav.netlify.app/Assets/images/devbanner.gif)](https://iamriishav.in)
-<h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rishav Kumar Rajak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="developer" width="400" src="https://iamriishav.netlify.app/Assets/images/dev.gif"/>
 
