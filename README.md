@@ -15,10 +15,10 @@ console.log(data)
 {
     name: 'Rishav Kumar Rajak',
     username: 'iamriishav',
-    age: 19,
+    age: 20,
     launguages: [
         'Hindi',
-        'English (Communicative)'
+        'English'
     ],
     hobby: [
         'FrontEnd Development'
