@@ -8,14 +8,14 @@
 
 ### Who am i?
 ```js
-const data = $fetch('/api/users/Rishav')
+const data = $fetch('/api/users/rishav')
 console.log(data)
 
 // Logging User Data...
 {
     name: 'Rishav Kumar Rajak',
     username: 'iamriishav',
-    age: 20,
+    age: 22,
     launguages: [
         'Hindi',
         'English'
