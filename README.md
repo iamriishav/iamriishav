@@ -1,4 +1,4 @@
-[![MasterHead](https://iamriishav.netlify.app/Assets/images/devbanner.gif)](https://iamriishav.in)
+[![MasterHead](https://iamriishav.netlify.app/Assets/images/devbanner.gif)](https://iamriishav.vercel.app)
 <h1 align="center">Hi 👋, I'm Rishav Kumar Rajak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -15,15 +15,19 @@ console.log(data)
 {
     name: 'Rishav Kumar Rajak',
     username: 'iamriishav',
-    age: 22,
+    age: 23,
     launguages: [
         'Hindi',
         'English'
     ],
     hobby: [
-        'FrontEnd Development'
+        'Software Development'
     ],
-    goal: 'FrontEnd Developer'
+    goal: 'Software Engineer',
+    experience: {
+        'Persistent Systems': 'Senior Software Engineer',
+        'Cisco': 'Software Engineer Trainee'
+    }
 }
 ```
 
